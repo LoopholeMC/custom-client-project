@@ -1,5 +1,4 @@
 Custom Client Development Project
-
 This repository serves as the public documentation and landing page for a private, personal development project.
 
 Application Name: Custom Client
